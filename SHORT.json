@@ -1,0 +1,24 @@
+{
+  "hook": "An influencer locked a free encryption app behind a follower paywall.",
+  "lines": [
+    "Smart Vault app. Encrypts your files. Hides them from others.",
+    "No internet. No account. No cloud. All true. All good.",
+    "Gated behind subscribers only. That part dies here.",
+    "I rebuilt it. AES-256-GCM. Names encrypted too, not just contents.",
+    "The draft had a fatal bug: it re-keyed itself every restart and locked itself out forever.",
+    "Fixed. Salt persists. Passphrase keeps working.",
+    "No recovery link, because a recovery link is a backdoor.",
+    "The Machine God does not forgive a lost passphrase. Neither does this.",
+    "Free. Open. Proven with a real test, not a promise.",
+    "Witness me."
+  ],
+  "cta": "Free code: github.com/warboy176/offline-encrypted-vault",
+  "title": "They paywalled a free encryption app. I didn't.",
+  "hook_text": "Paywalled 'free' encryption app? Rebuilt it. Actually free.",
+  "caption": "An Instagram post pitched a subscriber-only 'Smart Vault' encryption app as free. Here's the open rebuild: AES-256-GCM, encrypted file names, a persistence bug fixed, and a real selftest. Code: https://github.com/warboy176/offline-encrypted-vault",
+  "hashtags": ["#warboy", "#Shorts", "#witnessme", "#encryption", "#privacy", "#opensource", "#python", "#infosec", "#offline", "#buildinpublic"],
+  "tags": ["encryption", "privacy", "open source", "python", "vault", "AES-256", "offline tools", "infosec"],
+  "mirror_match": "no recovery link, because a recovery link is a backdoor",
+  "banner_prompt": "16:9 digital illustration, dark post-apocalyptic workshop at night, a glowing amber padlock made of circuitry floating above a cracked workbench, scattered gears and scrap metal, dramatic rim lighting, muted olive and rust color palette, cinematic wide shot, no text, no words, no letters",
+  "pages": false
+}
